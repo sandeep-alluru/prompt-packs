@@ -1,4 +1,4 @@
-# GAIT LAB: the robot dog simulator prompt
+# Robot dog simulator: the free prompt
 
 Paste everything below the line into a coding AI that can write and run files.
 It needs a terminal and a browser.
@@ -93,7 +93,7 @@ One machine, really simulated, presented inside the engineering tool that would 
 
 ---
 
-## The film: QUADRUPED ROBOT DOG · "GAIT LAB"
+## The film: QUADRUPED ROBOT DOG · "ROBOT DOG SIM"
 
 - **Subject:** a 4-legged robot (body 0.7 × 0.3 × 0.18 m, 3-DOF legs: hip abduction, hip flexion, knee; legs 0.36 m), fully code-built.
   - Rounded body shells, a sensor head with a lidar puck, exposed knee actuators, rubber feet.
